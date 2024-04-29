@@ -8,7 +8,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h1>
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">ButterFly ButterFlu where are you going </h1>
-	<h1 style="color: pink; font-size: 40px;" align="center">automating build deployment </h1>
+	<h1 style="color: pink; font-size: 40px;" align="center"> manually building the build</h1>
+	<h1 style="color: yellow; font-size: 40px;" align="center">automating build deployment </h1>
 	
 	
 	
